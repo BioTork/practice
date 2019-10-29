@@ -3,5 +3,6 @@
 
 int main() {
 
+	printf("Merge me.\n");
 	return 0;
 }
